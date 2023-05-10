@@ -1,0 +1,20 @@
+<template>
+  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <g >
+        <path d="M5 6V20L8.5 17.5L12 21L15.5 17.5L19 20V6C19 4.89543 18.1046 4 17 4H7C5.89543 4 5 4.89543 5 6Z" stroke="#ABABAB" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M9 8H15" stroke="#ABABAB" stroke-width="1.6" stroke-linecap="round"/>
+        </g>
+    </svg>
+
+
+</template>
+
+<script>
+    export default {
+        
+    }
+</script>
+
+<style lang="scss">
+
+</style>
