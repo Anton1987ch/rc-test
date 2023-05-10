@@ -27,6 +27,7 @@ export default defineNuxtConfig({
       // '@sidebase/nuxt-auth'
     ],
     pwa: {
+     
      manifest:{
         name:'РЦ',
         short_name:'РЦ',
@@ -34,6 +35,7 @@ export default defineNuxtConfig({
 
 
      },
+    //  registerType: 'autoUpdate',
      workbox:{
         navigateFallback:'/'
      },

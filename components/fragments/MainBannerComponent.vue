@@ -37,7 +37,7 @@
                                             Отправьте показания счетчиков до 10 февраля и получите скидку –10% на всю сумму показаний. 
                                         </p>
                                         <div class="banner-card__btns-wrap">
-                                            <nuxt-link to="/meterage" class=banner-card__link>Передать показания</nuxt-link>
+                                            <nuxt-link to="/cabinet/meterage" class=banner-card__link>Передать показания</nuxt-link>
                                         </div>
                                     </div>   
                                 </div>
