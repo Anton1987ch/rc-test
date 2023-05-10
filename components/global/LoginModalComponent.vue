@@ -33,13 +33,19 @@
                         или
                     </p>
                     <button class="login-form__gos-btn">
+                        <div class="login-gos__icon">
+                            <img src="/images/login/gos.svg" alt="." title=".">
+                        </div>
+                       <span>
                         Войти через госуслуги
+                       </span>
                     </button>
                 </div>
             </form>
             
        </div>
        <div class="login-form__footer">
+                
                 <button class="green-btn__link-reg" @click="toggleModal">
                     Регистрация
                 </button>

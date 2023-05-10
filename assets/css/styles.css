@@ -453,6 +453,12 @@ body{
 .login-form{
 
 }
+.login-gos__icon {
+    margin-right: 25px;
+}
+.login-gos__icon img {
+
+}
 .login-form__title{
     font-style: normal;
     font-weight: 700;
@@ -552,7 +558,9 @@ color: #ABABAB;
     border: 1px solid #E2E3E7;
     border-radius: 10px;
     width: 100%;
-    padding: 14px;
+    display: flex;
+    align-items: center;
+    padding: 14px 26px;
 }
 .login-form__block{
     background: #FFFFFF;
